@@ -6,6 +6,8 @@ write a piece of HTML snippet to clipboard, within which  the snapshot image and
 So than when one paste the copied content to the editors or note applications, such as MS Word or Onenote, a hyperlink is appended after the clipped image.   
 And this is helpful to figure out where the snapshot takes when reviewing.
 
+![result](https://github.com/valuex/SnapshotWithWinTitle/blob/master/Results.png)
+
 # Usage
 1. download irfanview and find its excutable file **i_view64.exe** 
 2. downlaod the script **SnapshotWithWinTitle.exe** and put it under the same folder as **i_view64.exe** 
