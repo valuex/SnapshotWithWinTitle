@@ -3,7 +3,7 @@ take snapshot and recoord the window's title as source link
 
 # How it works
 write a piece of HTML snippet to clipboard, within which  the snapshot image and where it takes is recoorded.  
-So than when one paste the copied content to the editors or note applications, such as MS Word or Onenote, a hyperlink is appended after the clipped image.   
+So that when one paste the copied content to the editors or note applications, such as MS Word or Onenote, a hyperlink is appended after the clipped image.   
 And this is helpful to figure out where the snapshot takes when reviewing.
 
 ![result](https://github.com/valuex/SnapshotWithWinTitle/blob/master/Results.png)
